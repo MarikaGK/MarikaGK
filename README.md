@@ -59,3 +59,16 @@
 </div>
 
 [![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarikaGK&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### :superhero_woman: Summary
+
+As someone who is open-minded, I have a natural ability to adapt to new environments. I welcome problems as they challenge me to come up with innovative solutions. My experience as a webmaster and photographer/graphic designer has taught me to pay close attention to details. 
+
+I decided to learn full-stack programming because I enjoy having an impact on the complete process of creating things from scratch.
+
+In private, I have a liking for reading books. Human psychology and its possibilities for development are particularly interesting to me. I value the vibrancy and intricacies of life, and I believe in the importance of maintaining a healthy balance between work and leisure. In my leisure time, I enjoy cycling, running, and practicing yoga, and I also have a passion for music - dancing and singing grant me a sense of liberation and allow me to clear my mind. 
+
+As a person, I try to maintain a positive outlook and prefer open and non-confrontational forms of communication.

@@ -9,9 +9,20 @@
   <div  align="center">
 <img src="https://komarev.com/ghpvc/?username=MarikaGK&style=flat-square&color=blue" alt=""/>
   </div>
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 ---
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs1YTVoZnYyaGVnZGs2M2JpM2J6ZWxoYzBmc3BhN3JxcWF3cjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif
+<div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs1YTVoZnYyaGVnZGs2M2JpM2J6ZWxoYzBmc3BhN3JxcWF3cjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" width="150"/>
+</div>
+### :woman_technologist: About Me :
+
+- 🔭 I’m currently working on increasing my skills in JavaScript
+  
+- 🌱 I’m learning TypeScript and Next.Js
+  
+- :zap: In my free time, I enjoy life - I appreciate good food, good music and good vibes. I love a lot of activities but also high quality leisure.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marika-groenke-kurpios/)
 
 <!--
 **MarikaGK/MarikaGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

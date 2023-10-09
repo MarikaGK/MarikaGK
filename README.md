@@ -25,7 +25,7 @@
   
 - :zap: In my free time, I enjoy life - I appreciate good food, good music and good vibes. I love a lot of activities but also high quality leisure.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marika-groenke-kurpios/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-my%20profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marika-groenke-kurpios/)
 
 ---
 

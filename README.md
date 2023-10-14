@@ -65,7 +65,7 @@
 
 ### :superhero_woman: Summary
 
-As someone who is open-minded, I have a natural ability to adapt to new environments. I welcome problems as they challenge me to come up with innovative solutions. My experience as a webmaster and photographer/graphic designer has taught me to pay close attention to details. 
+As someone who is open-minded, I have a natural ability to adapt to new environments. I welcome problems as they challenge me to come up with innovative solutions. My experience as a webmaster, photographer and graphic designer has taught me to pay close attention to details. 
 
 I decided to learn full-stack programming because I enjoy having an impact on the complete process of creating things from scratch.
 

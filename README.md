@@ -33,7 +33,7 @@
 ### :computer: Tech Stack & Skills :
 
 #### 🎨 **Frontend Development**
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -46,20 +46,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS/Sass"  alt="SCSS" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+<div>
   
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)
 
 </div>
 
 #### ⚙️ **Backend Development**
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun"  alt="Bun" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+<div>
   
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -67,20 +67,20 @@
 </div>
 
 #### 🗄️ **Databases & Backend Services**
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase"  alt="Supabase" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+<div>
   
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
 </div>
 
 #### 🤖 **AI & Machine Learning**
-<div align="center">
+<div>
   
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -91,7 +91,7 @@
 </div>
 
 #### 🛠️ **Development Tools**
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -104,25 +104,103 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS" alt="Electron" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+<div>
   
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 </div>
 
 #### 🎨 **Design & UI/UX**
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
 #### 🔗 **No-Code Automation**
-<div align="center">
+<div>
   
 ![Make](https://img.shields.io/badge/Make-6366f1?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+#### 📝 [Squadka.pl](https://squadka.pl)
+**Collaboration project - Managing group funds app**
+
+**Brief Description:**
+An innovative platform designed to help organize collections, track contributions and expenses, and automate communication with participants. Built as a fully responsive Progressive Web App (PWA) with real-time communication features using WebSockets.
+
+**Collaboration:**
+Developed remotely in collaboration with [MarcinBolt](https://github.com/MarcinBolt) - Co-founder & DevOps specialist. Working together since May 2024, continuously designing, building, and improving the application.
+
+**Purpose & Features:**
+- Group financial management and expense tracking
+- Collaborative budgeting for teams and groups
+- Real-time expense sharing and settlement
+- Transparent group financial operations
+
+**Tech Stack:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+</div>
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**My Roles & Responsibilities:**
+- **Designer** - UI/UX design and user interface planning
+- **Code Reviewer** - Code quality assurance and team collaboration
+- **Frontend Developer** - Vue.js components and application logic, reusable components and functions
+- **Backend Developer** - Database schemas, service layer, controllers, API development
+- **Documentation** - Swagger API implementation
+- **Problem Solver** - Technical challenges and system optimization
+
+---
+
+#### 🎮 [PairPlay.fun](https://pairplay.fun)
+**Collaboration project - Card game for pairs**
+
+**Brief Description:**
+A platform designed to enhance collaborative experiences through innovative card game features. Built as a fully responsive application using modern T3 stack architecture with TypeScript, ensuring type safety and excellent developer experience.
+
+**Collaboration:**
+Developed remotely as a team collaboration project, focusing on creating engaging interactive experiences for couples through carefully designed game mechanics and user interface.
+
+**Purpose & Features:**
+- Interactive card game designed specifically for couples
+- Real-time multiplayer gaming experience
+- Engaging gameplay mechanics for pair bonding
+- Mobile-responsive design for gaming anywhere
+
+**Tech Stack:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+</div>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=flat-square&logo=trpc&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Project Type:** T3 App (TypeScript, Next.js, Prisma, tRPC, MongoDB)
+
+**My Roles & Responsibilities:**
+- **Designer** - UI/UX design and user experience planning
+- **Code Reviewer** - Code quality assurance and best practices
+- **Frontend Developer** - Game components and interactive functions
+- **Backend Developer** - Middleware functions (tRPC), Prisma schemas, database functions
+- **Documentation** - Swagger API implementation
+- **Problem Solver** - Technical challenges and optimization
 
 ---
 

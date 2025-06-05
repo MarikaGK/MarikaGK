@@ -17,9 +17,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs1YTVoZnYyaGVnZGs2M2JpM2J6ZWxoYzBmc3BhN3JxcWF3cjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" width="150"/>
 </div>
 
-## 💼 About Me
+## :woman_technologist: About Me
 
 I am a **JavaScript Full-Stack Engineer** with a strong passion for building scalable, user-friendly web applications and clean, maintainable code. I thrive in collaborative environments and have extensive experience working remotely in dynamic teams, bringing creativity and technical expertise to every project.
+
+- 🔭 I'm currently working on increasing my skills in JavaScript and exploring AI mysteries
+- 🌱 I'm learning Vue.js advanced patterns and diving deep into AI agent development  
+- 🤖 I'm passionate about building intelligent solutions and unraveling the possibilities of AI
+- :zap: In my free time, I enjoy life - I appreciate good food, good music and good vibes. I love a lot of activities but also high quality leisure.
 
 ### **Key Highlights:**
 
